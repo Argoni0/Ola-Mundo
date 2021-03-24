@@ -28,11 +28,11 @@
  - [x] Criar item 2
  - [ ] Criar item 3
 
- **Inserção  imagem** - Selecione imagens com no máximo 500 px de largura e em formato compactado como .png
+ **Inserindo imagem** - Selecione imagens com no máximo 500 px de largura e em formato compactado como .png
  
  ![Descrição da imagem](https://user-images.githubusercontent.com/80778485/112314567-ed9e9a00-8c87-11eb-8380-2d20b329bd63.png)
  
- **Inserindo Tabela**
+ **Inserindo tabela**
  
  Num | Nome | Nota
   ---|---|---
